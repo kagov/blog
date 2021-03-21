@@ -5,7 +5,6 @@ tags:
   - docker
   - traefik
   - websockets
-draft: true
 mermaid: true
 ---
 Maintaning a web socket connection in replicated services on the cloud does not work out of the box.<!--more--> As long as there is only one server holding all the web socket connections things work just fine but once we move try to scale the service by creating replicas then even a simple websocket application seems to fall apart. Let us look at the problem in a little more detail.
