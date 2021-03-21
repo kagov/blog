@@ -50,6 +50,7 @@ $(document).ready(function() {
       <script>
         var disqus_config = function () {
           this.page.url = '{{ .Permalink }}';
+          this.page.identifier = '{{ .RelPermalink }}'
           {{ if .Params.disqusIdentifier }}
             this.page.identifier = '{{ .Params.disqusIdentifier }}';
           {{ else }}

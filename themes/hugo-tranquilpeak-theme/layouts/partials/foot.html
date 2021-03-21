@@ -4,5 +4,8 @@
     {{ partial "cover.html" . }}
     {{ partial "script.html" . }}
     {{ partial "foot_end.html" . }}
+    {{ if (.Params.mermaid) }}
+      <script async src="https://unpkg.com/mermaid@8.9.2/dist/mermaid.min.js"></script>
+    {{ end }}
   </body>
 </html>
