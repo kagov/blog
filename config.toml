@@ -22,8 +22,8 @@ disqusShortname = "letsconfigyou"
 paginate = 10
 canonifyurls = true
 
-[permalinks]
-  post = "/:year/:month/:slug/"
+#[permalinks]
+  #post = "/:year/:month/:slug/"
 
 [taxonomies]
   tag = "tags"
@@ -32,16 +32,16 @@ canonifyurls = true
 
 [author]
   name = "Kaushik Govindarajan"
-  bio = "Back end developer with a thing for devops"
+  bio = "Build | Code | Write"
   job = "Software Developer"
-  location = "Ireland"
+  location = "London"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   #gravatarEmail = "kaushik.rajan4@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "images/avatar.png"
+  picture = "images/avatar.jpg"
   # Your Twitter username without the @. E.g : thibaudlepretre
-  twitter = "tip_the_kau"
+  twitter = "kgadventures_"
 
 # Menu Configuration
 [[menu.main]]
@@ -96,7 +96,7 @@ canonifyurls = true
   identifier = "twitter"
   name = "Twitter"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter  \"></i>"
-  url = "https://twitter.com/tip_the_kau"
+  url = "https://twitter.com/kgadventures_"
 
 [params]
   # Customize date format use to render blog post date, categories and other
