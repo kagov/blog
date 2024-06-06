@@ -8,7 +8,7 @@ A small post to outline the tools and technologies that help the blog stay up on
 
 <b>Hugo</b> - The amazing static site generator that is the backbone for that you see out there. The UI/UX uses tranquil theme. The packs a lot of stuff out of the box but at the same time allows to choose your own colors.
 
-<b>Netlify</b> provides free hosting for static sites and hexo has a deployer plugin that helps you deploy the site in a single command. Not only this, it has an inttegration with Let;'s Encrypt that lets you add SSL on click of a button.
+<b>Netlify</b> provides free hosting for static sites and hexo has a deployer plugin that helps you deploy the site in a single command. Not only this, it has an integration with Let;'s Encrypt that lets you add SSL on click of a button.
 
 <b>Go Daddy</b> is the site's domain registrar. Create an account, choose a domain, pay and as simple as that. Just configure a CNAME record by adding the site's IP and you are set.
 
