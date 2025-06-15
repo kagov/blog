@@ -15,7 +15,7 @@
 baseURL = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "LetsConfigYou"
+title = "TheKGVerse"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "letsconfigyou"
 # googleAnalytics = "UA-123-45"

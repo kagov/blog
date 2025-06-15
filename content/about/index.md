@@ -4,12 +4,19 @@ date: 2024-06-05T17:28:04+01:00
 draft: false
 ---
 
-Currently based in London, I work as a software developer. 
 
-Through this blog I hope I can share some experiences and learnings that I have had. I want to broadly cover various software systems
-and how they interact with each other.
+![](/images/about_bg.png)
 
-I will also be writing about productivity, lifestyle, personal finance and more..
+In a lifelong journey of constant improvement, learning, solving some problems and most importantly having some fun along the way.
+
+Currently interested in 
+- Tech/AI
+- Finance, money and economics
+- Health and fitness 
+- Nutrition, recipes and little bit about human physiology.
+
+Through this blog I hope I can share some experiences and learnings that I have had. 
+
 
 I also help small scale businesses and solo entrepreneurs establish their tech presence.
 
@@ -20,3 +27,5 @@ https://griffininternational.org/
 https://pmbalaji.co.uk/
 
 https://shrivedasolutions.com/
+
+Drop a message at kaushik.rajan4@gmail.com
